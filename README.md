@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Spencer-Janus
+- 👋 Hi, I’m @Janus
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Deep Learning
 - 📫 How to reach me 1561924341@qq.com
